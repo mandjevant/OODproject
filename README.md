@@ -17,4 +17,5 @@ Dataset downloads:
 
 ## References
 <a id="1">[1]</a> Huang, R., & Li, Y. (2021). MOS: towards scaling out-of-distribution detection for large semantic space. CoRR, abs/2105.01879. https://arxiv.org/abs/2105.01879
+
 <a id="1">[2]</a> Mukhoti, J., Kirsch, A., van Amersfoort, J., Torr, P. H. S., & Gal, Y. (2021). Deterministic neural networks with appropriate inductive biases capture epistemic and aleatoric uncertainty. CoRR, abs/2102.11582. https://arxiv.org/abs/2102.11582
